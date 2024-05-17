@@ -1,16 +1,9 @@
-### Olá!
+### Olá 🤚
 
 - 📕 Estudando JAVA e Python
 - ✉️ ricardo.schrachor@outlook.com
 - 💼 Trabalhando com Back-End
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-</div>
-  
   ##
  
 <div> 
@@ -21,7 +14,12 @@
   
 </div>
 
-<div>
-  <a href="https:://beacons.ai/ricardo_rachor">
-  <img height="180em" src="https://github-readme-stats.verce1.app/api?username=ricardo-rachor28show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+![Ricardo GitHub stats](https://github-readme-stats.vercel.app/api?username=ricardo-rachor&show_icons=true&theme=dracula)
+
+### 👇Tecnologias que utilizo 👇
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </div>
